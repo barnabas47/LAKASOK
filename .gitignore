@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Vite
+/dist
+
+# React
+/build
+
+# SQLite
+*.db
+*.sqlite
+
+# VS Code
+.vscode/
+
+# Env
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.log
+*.tmp
+
+# Git
+.git/
