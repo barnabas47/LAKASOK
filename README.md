@@ -1,11 +1,10 @@
-# LAKASOK
+# LAKÁSOK
 
 Ez a projekt egy egyszerű ingatlan (lakás/ház) kereső webalkalmazás React frontenddel és Express + SQLite backenddel.
 
 ## Fő funkciók
 - Eladó lakások és házak listázása adatbázisból
 - Kategória szűrő, kereső
-- Modern, mobilbarát UI
 - Modal ablak bejelentkezéshez/regisztrációhoz
 - Backend API: Express + SQLite
 - Frontend: React (Vite)
@@ -39,9 +38,4 @@ Ez a projekt egy egyszerű ingatlan (lakás/ház) kereső webalkalmazás React f
 - A backend API: `http://localhost:3001/api/houses`
 - Mobilról teszteléshez a fetch URL-t állítsd a gép IP-címére!
 
-## Fejlesztőknek
-- Forráskód: `my-react-app/src` (frontend), `backend/server.js` (backend)
-- Felesleges fájlok kizárva a `.gitignore`-ban
-
-## License
-MIT
+## Képek
